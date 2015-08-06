@@ -1,2 +1,1 @@
-# ember-manager
-Ember Manager
+# Ember Manager
