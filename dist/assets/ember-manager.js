@@ -291,7 +291,7 @@ catch(err) {
 if (runningTests) {
   require("ember-manager/tests/test-helper");
 } else {
-  require("ember-manager/app")["default"].create({"name":"ember-manager","version":"0.0.0+2bbfb494"});
+  require("ember-manager/app")["default"].create({"name":"ember-manager","version":"0.0.0+5c5a14e0"});
 }
 
 /* jshint ignore:end */
